@@ -1,3 +1,5 @@
+import keyboard;
+
 def main():
     pass
 
